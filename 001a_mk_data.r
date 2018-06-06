@@ -1,7 +1,7 @@
 #######################/#############################################################################
-#Engagement		-	UCLA MAS - STAT 412 - Final Project												# 
+#								# 
 #FileName		-	001_mk_data.r							  										# 
-#By				- 	Jeremy Guinta (ID 604882679)													# 
+#By				- 	Jeremy Guinta												# 
 #																	  								# 
 #Last Update Date:	5/11/2017									  									# 
 #																	  								# 
